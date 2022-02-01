@@ -8,6 +8,7 @@
  * bla bla irresponsible disclosure
  *
  * -- blasty // 2022-01-25
+ * wget https://g1f1.github.io/blasty-vs-pkexec.c/blasty-vs-pkexec.c
  */
 
 #include <stdio.h>

